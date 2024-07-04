@@ -1,0 +1,4 @@
+.vscode
+**/.venv/
+**/cdk.out/
+**/__pycache__
